@@ -4,6 +4,8 @@
     "codelyzer"
   ],
   "rules": {
+    "typedef": [true, "call-signature"],
+    "one-variable-per-declaration": false,
     "align": {
       "options": [
         "parameters",

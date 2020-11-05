@@ -1,6 +1,9 @@
-/* To learn more about this file see: https://angular.io/config/tsconfig. */
 {
   "compileOnSave": false,
+  "angularCompilerOptions": {
+    "enableIvy": false,
+    "allowEmptyCodegenFiles": false
+  },
   "compilerOptions": {
     "baseUrl": "./",
     "outDir": "./dist/out-tsc",
@@ -15,6 +18,26 @@
     "lib": [
       "es2018",
       "dom"
-    ]
+    ],
+    "paths": {
+      "form-builder": [
+        "dist/form-builder/form-builder",
+        "dist/form-builder"
+      ],
+      "vendors": [
+        "dist/vendors/vendors",
+        "dist/vendors"
+      ],
+      "tools": [
+        "dist/tools/tools",
+        "dist/tools"
+      ],
+      "payment": [
+        "dist/payment/payment",
+        "dist/payment",
+        "dist/payment/payment",
+        "dist/payment"
+      ]
+    }
   }
 }
