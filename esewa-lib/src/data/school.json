@@ -1,0 +1,141 @@
+{
+    "api": [],
+    "fields": [
+        {
+            "key": "studentName",
+            "type": "input",
+            "templateOptions": {
+                "type": "text",
+                "required": true,
+                "label": "Student Name",
+                "placeholder": "Student Name",
+                "pattern": "/^[a-zA-Z]{1,30}[\\s][a-zA-Z]{1,30}[ a-zA-Z]{0,30}$/"
+            },
+            "validation": {
+                "messages": {
+                    "pattern": "Invalid Student Name"
+                }
+            }
+        },
+        {
+            "key": "level",
+            "type": "select",
+            "templateOptions": {
+                "required": true,
+                "label": "Select Level",
+                "placeholder": "Select Level",
+                "description": "Description",
+                "options": [
+                    { "value": "LKG", "label": "LKG"  },
+                    { "value": "UKG", "label": "UKG"  },
+                    { "value": "ONE", "label": "One"   },
+                    { "value": "TWO", "label": "TWO",  "disabled": true }
+                ]
+            }
+        },
+        {
+            "key": "year",
+            "type": "select",
+            "templateOptions": {
+                "required": true,
+                "label": "Select Year",
+                "placeholder": "Select Year",
+                "description": "Description",
+                "options": [
+                    { "value": 2077, "label": "2077"  },
+                    { "value": 2078, "label": "2077"  }
+                ]
+            }
+        },
+        {
+            "key": "month",
+            "type": "select",
+            "templateOptions": {
+                "required": true,
+                "label": "Select Month",
+                "placeholder": "Select Month",
+                "description": "Description",
+                "options": [
+                    { "value": "Baisakh", "label": "Baisakh"  },
+                    { "value": "Jestha", "label": "Jestha"  }
+                ]
+            }
+        },
+        {
+            "key": "rollNumber",
+            "type": "input",
+            "templateOptions": {
+                "type": "text",
+                "required": true,
+                "label": "Roll Number",
+                "minLength": 1,
+                "maxlength": 10,
+                "placeholder": "Roll Number"
+            }
+        },
+        {
+            "key": "section",
+            "type": "input",
+            "templateOptions": {
+                "type": "text",
+                "required": true,
+                "label": "Section",
+                "placeholder": "Section",
+                "maxlength": 5
+            }
+        },
+        {
+            "key": "mobileNo",
+            "type": "input",
+            "templateOptions": {
+                "type": "text",
+                "required": true,
+                "label": "Mobile Number",
+                "placeholder": "98******",
+                "pattern":  "/^[9][0-9]{9}$/"
+            },
+            "validation": {
+                "messages": {
+                    "pattern": "Invalid mobile number"
+                }
+            }
+        },
+        {
+            "key": "depositor_name",
+            "type": "input",
+            "templateOptions": {
+                "type": "text",
+                "required": true,
+                "label": "Depositor Name",
+                "minLength": 5,
+                "maxlength": 30,
+                "placeholder": "Depositor Name"
+            }
+        },
+        {
+            "key": "depositor_name_relation",
+            "type": "input",
+            "templateOptions": {
+                "type": "text",
+                "required": true,
+                "minLength": 3,
+                "maxlength": 30,
+                "label": "Depositor Relation",
+                "placeholder": "Depositor Relation"
+            }
+        },
+        {
+            "key": "remarks",
+            "type": "input",
+            "templateOptions": {
+                "type": "text",
+                "required": true,
+                "minLength": 3,
+                "maxlength": 30,
+                "label": "Remarks",
+                "placeholder": "Remarks"
+            }
+        }
+    ]
+}
+

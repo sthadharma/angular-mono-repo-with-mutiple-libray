@@ -1,0 +1,682 @@
+[
+  {
+    "name": "ACHHAM",
+    "code": "391"
+  },
+  {
+    "name": "AMUWA(RUPENDEHI)",
+    "code": "273"
+  },
+  {
+    "name": "ANARMANI",
+    "code": "268"
+  },
+  {
+    "name": "ARGHAKHACHI",
+    "code": "248"
+  },
+  {
+    "name": "ARUGHAT",
+    "code": "384"
+  },
+  {
+    "name": "ATTARIYA",
+    "code": "345"
+  },
+  {
+    "name": "BADEGAUN SDC",
+    "code": "237"
+  },
+  {
+    "name": "BAGLUNG",
+    "code": "299"
+  },
+  {
+    "name": "BAITADI",
+    "code": "381"
+  },
+  {
+    "name": "BALAJU",
+    "code": "215"
+  },
+  {
+    "name": "BANESHWOR",
+    "code": "219"
+  },
+  {
+    "name": "BANSGADHI",
+    "code": "373"
+  },
+  {
+    "name": "BARAHATHAWA",
+    "code": "399"
+  },
+  {
+    "name": "BARDAGHAT SDC",
+    "code": "267"
+  },
+  {
+    "name": "BARDIBAS",
+    "code": "378"
+  },
+  {
+    "name": "Barhabise",
+    "code": "277"
+  },
+  {
+    "name": "BELAURI",
+    "code": "348"
+  },
+  {
+    "name": "BELBARI",
+    "code": "317"
+  },
+  {
+    "name": "BELTAR",
+    "code": "339"
+  },
+  {
+    "name": "BHADRAPUR",
+    "code": "265"
+  },
+  {
+    "name": "BHAIRAHAWA",
+    "code": "272"
+  },
+  {
+    "name": "BHAJANI",
+    "code": "370"
+  },
+  {
+    "name": "BHAKTAPUR DC",
+    "code": "245"
+  },
+  {
+    "name": "BHARATPUR DC",
+    "code": "211"
+  },
+  {
+    "name": "BHIMAN",
+    "code": "270"
+  },
+  {
+    "name": "BHOJPUR",
+    "code": "316"
+  },
+  {
+    "name": "BIRATNAGAR",
+    "code": "285"
+  },
+  {
+    "name": "BIRGUNJ DC",
+    "code": "286"
+  },
+  {
+    "name": "Bodebarsaien",
+    "code": "301"
+  },
+  {
+    "name": "BUDHABARE SDC",
+    "code": "333"
+  },
+  {
+    "name": "BUDHANILKANTHA",
+    "code": "223"
+  },
+  {
+    "name": "BUTWAL",
+    "code": "229"
+  },
+  {
+    "name": "CHABAHIL",
+    "code": "220"
+  },
+  {
+    "name": "CHAINPUR",
+    "code": "315"
+  },
+  {
+    "name": "Chanauli",
+    "code": "294"
+  },
+  {
+    "name": "CHAPAGAUN SDC",
+    "code": "217"
+  },
+  {
+    "name": "CHAPUR",
+    "code": "356"
+  },
+  {
+    "name": "CHAUTARA",
+    "code": "326"
+  },
+  {
+    "name": "DADELDHURA",
+    "code": "385"
+  },
+  {
+    "name": "DAILEKH",
+    "code": "350"
+  },
+  {
+    "name": "DAMAK",
+    "code": "280"
+  },
+  {
+    "name": "DAMAULI",
+    "code": "241"
+  },
+  {
+    "name": "DARCHULA",
+    "code": "383"
+  },
+  {
+    "name": "DHADING DC",
+    "code": "224"
+  },
+  {
+    "name": "DHANGADHI",
+    "code": "344"
+  },
+  {
+    "name": "DHANKUTA",
+    "code": "284"
+  },
+  {
+    "name": "DHANUSHADHAM",
+    "code": "302"
+  },
+  {
+    "name": "DHARAN",
+    "code": "212"
+  },
+  {
+    "name": "DHARKE",
+    "code": "269"
+  },
+  {
+    "name": "DHULABARI SDC",
+    "code": "320"
+  },
+  {
+    "name": "DHUNCHE DC",
+    "code": "375"
+  },
+  {
+    "name": "DIKTEL",
+    "code": "397"
+  },
+  {
+    "name": "DOLAKHA",
+    "code": "274"
+  },
+  {
+    "name": "DOTI",
+    "code": "388"
+  },
+  {
+    "name": "DUHABI",
+    "code": "271"
+  },
+  {
+    "name": "DUMRE",
+    "code": "390"
+  },
+  {
+    "name": "FIKKAL",
+    "code": "308"
+  },
+  {
+    "name": "GAIDAKOT SDC",
+    "code": "235"
+  },
+  {
+    "name": "GAJURI",
+    "code": "225"
+  },
+  {
+    "name": "GAUR",
+    "code": "323"
+  },
+  {
+    "name": "GAURADAHA",
+    "code": "287"
+  },
+  {
+    "name": "GAUSHALA",
+    "code": "359"
+  },
+  {
+    "name": "GHORAHI",
+    "code": "250"
+  },
+  {
+    "name": "GORKHA",
+    "code": "238"
+  },
+  {
+    "name": "GULERIYA",
+    "code": "242"
+  },
+  {
+    "name": "GULMI",
+    "code": "290"
+  },
+  {
+    "name": "HANUMAN NAGAR SUB DC",
+    "code": "330"
+  },
+  {
+    "name": "HETAUDA",
+    "code": "231"
+  },
+  {
+    "name": "ILLAM",
+    "code": "292"
+  },
+  {
+    "name": "INARUWA",
+    "code": "281"
+  },
+  {
+    "name": "ITAHARI",
+    "code": "264"
+  },
+  {
+    "name": "JAHARE",
+    "code": "354"
+  },
+  {
+    "name": "Jajarkot",
+    "code": "392"
+  },
+  {
+    "name": "JALESHWOR DC",
+    "code": "331"
+  },
+  {
+    "name": "JANAKPUR BRANCH",
+    "code": "261"
+  },
+  {
+    "name": "JIRI",
+    "code": "275"
+  },
+  {
+    "name": "JOGBUDA",
+    "code": "386"
+  },
+  {
+    "name": "JORPATI",
+    "code": "221"
+  },
+  {
+    "name": "KALAIYA",
+    "code": "318"
+  },
+  {
+    "name": "KALIKOT",
+    "code": "380"
+  },
+  {
+    "name": "KATARI BRANCH",
+    "code": "338"
+  },
+  {
+    "name": "KAVRE",
+    "code": "247"
+  },
+  {
+    "name": "KAWASOTI DC(NAWALPRASHI)",
+    "code": "234"
+  },
+  {
+    "name": "KHADBARI",
+    "code": "306"
+  },
+  {
+    "name": "KHAIRENI",
+    "code": "243"
+  },
+  {
+    "name": "KHAJURA",
+    "code": "325"
+  },
+  {
+    "name": "KHARIDHUNGA",
+    "code": "282"
+  },
+  {
+    "name": "KIRTIPUR",
+    "code": "246"
+  },
+  {
+    "name": "KOHALPUR",
+    "code": "324"
+  },
+  {
+    "name": "KRISHNA NAGAR(KAPILVASTU)",
+    "code": "309"
+  },
+  {
+    "name": "KULESHOR",
+    "code": "205"
+  },
+  {
+    "name": "LAGANKHEL DC",
+    "code": "216"
+  },
+  {
+    "name": "LAHAN",
+    "code": "293"
+  },
+  {
+    "name": "LALBANDI",
+    "code": "379"
+  },
+  {
+    "name": "LAMAHI",
+    "code": "251"
+  },
+  {
+    "name": "LAMJUNG",
+    "code": "332"
+  },
+  {
+    "name": "LAMKI",
+    "code": "343 "
+  },
+  {
+    "name": "LEKHNATH (POKHARA)",
+    "code": "228"
+  },
+  {
+    "name": "LUBHU SDC",
+    "code": "218"
+  },
+  {
+    "name": "LUMBINI",
+    "code": "307"
+  },
+  {
+    "name": "MAHARAJGUNJ DC",
+    "code": "222"
+  },
+  {
+    "name": "MAHENDRANAGAR (Mahakali)",
+    "code": "347"
+  },
+  {
+    "name": "MAINAPOKHARI",
+    "code": "376"
+  },
+  {
+    "name": "MAJUWA,GORKHA",
+    "code": "239"
+  },
+  {
+    "name": "MALANGWA",
+    "code": "305"
+  },
+  {
+    "name": "MANGALSEN",
+    "code": "396"
+  },
+  {
+    "name": "MANTHALI",
+    "code": "296"
+  },
+  {
+    "name": "MAULAPUR",
+    "code": "303"
+  },
+  {
+    "name": "Melamchi",
+    "code": "337"
+  },
+  {
+    "name": "MIRCHIYA",
+    "code": "334"
+  },
+  {
+    "name": "MIRMI",
+    "code": "310"
+  },
+  {
+    "name": "MUDHE",
+    "code": "362"
+  },
+  {
+    "name": "MYAGDI",
+    "code": "319"
+  },
+  {
+    "name": "NAXAL",
+    "code": "214"
+  },
+  {
+    "name": "NAYAMILL",
+    "code": "313"
+  },
+  {
+    "name": "NEPALGUNJ",
+    "code": "256"
+  },
+  {
+    "name": "NIJGADH",
+    "code": "279"
+  },
+  {
+    "name": "NUWAKOT",
+    "code": "232"
+  },
+  {
+    "name": "OKHALDHUGA",
+    "code": "355"
+  },
+  {
+    "name": "PALPA DC",
+    "code": "263"
+  },
+  {
+    "name": "PALUNG",
+    "code": "262"
+  },
+  {
+    "name": "PANAUTI",
+    "code": "335"
+  },
+  {
+    "name": "PANCHKHAL",
+    "code": "249"
+  },
+  {
+    "name": "Panchthar",
+    "code": "395"
+  },
+  {
+    "name": "PARASI",
+    "code": "321"
+  },
+  {
+    "name": "PARBAT",
+    "code": "240"
+  },
+  {
+    "name": "PASHUPATINAGAR",
+    "code": "314"
+  },
+  {
+    "name": "PATAN",
+    "code": "382"
+  },
+  {
+    "name": "POKHARA DC",
+    "code": "226"
+  },
+  {
+    "name": "POKHARA GRAMIN SDC",
+    "code": "227"
+  },
+  {
+    "name": "Pokhariya(Parsa)",
+    "code": "360"
+  },
+  {
+    "name": "PULCHOWK",
+    "code": "207"
+  },
+  {
+    "name": "PYUTHAN",
+    "code": "357"
+  },
+  {
+    "name": "RAJAPUR",
+    "code": "371"
+  },
+  {
+    "name": "RAJBIRAJ",
+    "code": "329"
+  },
+  {
+    "name": "RAMECHHAP",
+    "code": "336"
+  },
+  {
+    "name": "RANGELI DC",
+    "code": "291"
+  },
+  {
+    "name": "RANI SUB DC",
+    "code": "288"
+  },
+  {
+    "name": "RATNAPARK DC",
+    "code": "201"
+  },
+  {
+    "name": "Ridi(Gulmi)",
+    "code": "311"
+  },
+  {
+    "name": "ROLPA",
+    "code": "387"
+  },
+  {
+    "name": "RUKUM",
+    "code": "346"
+  },
+  {
+    "name": "SAKHUWA",
+    "code": "374"
+  },
+  {
+    "name": "SALYAN",
+    "code": "349"
+  },
+  {
+    "name": "SANISCHARE SDC",
+    "code": "352"
+  },
+  {
+    "name": "SANKHU",
+    "code": "322"
+  },
+  {
+    "name": "SAPTARI KANCHANPUR",
+    "code": "351"
+  },
+  {
+    "name": "SILGADHI",
+    "code": "398"
+  },
+  {
+    "name": "SIMARA",
+    "code": "230"
+  },
+  {
+    "name": "SIMRAUNGADH",
+    "code": "304"
+  },
+  {
+    "name": "Sindhu",
+    "code": "276"
+  },
+  {
+    "name": "SINDHULI",
+    "code": "233"
+  },
+  {
+    "name": "SIRAHA",
+    "code": "312"
+  },
+  {
+    "name": "Surajpura",
+    "code": "327"
+  },
+  {
+    "name": "SURKHET",
+    "code": "353"
+  },
+  {
+    "name": "SURUNGA",
+    "code": "358"
+  },
+  {
+    "name": "SYANGJA",
+    "code": "278"
+  },
+  {
+    "name": "TANDI",
+    "code": "236"
+  },
+  {
+    "name": "TATOPANI",
+    "code": "377"
+  },
+  {
+    "name": "TAULIHAWA",
+    "code": "283"
+  },
+  {
+    "name": "TEHRATHUM",
+    "code": "341"
+  },
+  {
+    "name": "THIMI DC",
+    "code": "244"
+  },
+  {
+    "name": "TIKAPUR",
+    "code": "342"
+  },
+  {
+    "name": "TRIVENI",
+    "code": "328"
+  },
+  {
+    "name": "TULSIPUR",
+    "code": "252"
+  },
+  {
+    "name": "TUMLINGTAR",
+    "code": "363"
+  },
+  {
+    "name": "UDAYAPUR(GAIGHAT)",
+    "code": "297"
+  },
+  {
+    "name": "URLABARI",
+    "code": "295"
+  },
+  {
+    "name": "VURIGAUN",
+    "code": "372"
+  },
+  {
+    "name": "YADUKUWA",
+    "code": "389"
+  }
+]

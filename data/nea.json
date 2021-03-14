@@ -1,0 +1,31 @@
+[
+  {
+    "key": "code",
+    "type": "autocomplete",
+    "templateOptions": {
+      "required": true,
+      "label": "Select Counter",
+      "placeholder": "Counter"
+    }
+  },
+  {
+    "key": "scno",
+    "type": "input",
+    "templateOptions": {
+      "label": "Sc No",
+      "placeholder": "Sc No",
+      "description": "Sc No",
+      "required": true
+    }
+  },
+  {
+    "key": "customer_id",
+    "type": "input",
+    "templateOptions": {
+      "label": "Customer Id",
+      "placeholder": "Customer Id",
+      "description": "Customer Id",
+      "required": true
+    }
+  }
+]

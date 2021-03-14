@@ -1,0 +1,152 @@
+[
+  {
+    "key": "studentName",
+    "type": "input",
+    "templateOptions": {
+      "type": "text",
+      "required": true,
+      "label": "Student Name",
+      "placeholder": "Student Name",
+      "pattern": "/^[a-zA-Z]{1,30}[\\s][a-zA-Z]{1,30}[ a-zA-Z]{0,30}$/"
+    },
+    "validation": {
+      "messages": {
+        "pattern": "Invalid Student Name"
+      }
+    }
+  },
+  {
+    "key": "level",
+    "type": "select",
+    "templateOptions": {
+      "required": true,
+      "label": "Select Level",
+      "placeholder": "Select Level",
+      "description": "Description",
+      "options": [
+        { "value": 1, "label": "Option 1"  },
+        { "value": 2, "label": "Option 2"  },
+        { "value": 3, "label": "Option 3"   },
+        { "value": 4, "label": "Option 4",  "disabled": true }
+      ]
+    }
+  },
+  {
+    "key": "year",
+    "type": "select",
+    "templateOptions": {
+      "required": true,
+      "label": "Select Year",
+      "placeholder": "Select Year",
+      "description": "Description",
+      "options": [
+        { "value": 2077, "label": "2077"  },
+        { "value": 2078, "label": "2077"  }
+      ]
+    }
+  },
+  {
+    "key": "month",
+    "type": "select",
+    "templateOptions": {
+      "required": true,
+      "label": "Select Month",
+      "placeholder": "Select Month",
+      "description": "Description",
+      "options": [
+        { "value": "Baisakh", "label": "Baisakh"  },
+        { "value": "Jestha", "label": "Jestha"  }
+      ]
+    }
+  },
+  {
+    "key": "rollNumber",
+    "type": "input",
+    "templateOptions": {
+      "type": "text",
+      "required": true,
+      "label": "Roll Number",
+      "placeholder": "Roll Number",
+      "pattern": "/^[a-zA-Z]{1,30}[\\s][a-zA-Z]{1,30}[ a-zA-Z]{0,30}$/"
+    },
+    "validation": {
+      "messages": {
+        "pattern": "Invalid Roll Number"
+      }
+    }
+  },
+  {
+    "key": "section",
+    "type": "input",
+    "templateOptions": {
+      "type": "text",
+      "required": true,
+      "label": "Section",
+      "placeholder": "Section",
+      "pattern": "/^[a-zA-Z]{1,30}[\\s][a-zA-Z]{1,30}[ a-zA-Z]{0,30}$/"
+    },
+    "validation": {
+      "messages": {
+        "pattern": "Invalid Section"
+      }
+    }
+  },
+  {
+    "key": "mobileNo",
+    "type": "input",
+    "templateOptions": {
+      "type": "text",
+      "required": true,
+      "label": "Mobile Number",
+      "placeholder": "98******",
+      "pattern": "^98[5][0-9]{7}$"
+    },
+    "validation": {
+      "messages": {
+        "pattern": "Invalid mobile number"
+      }
+    }
+  },
+  {
+    "key": "depositor_name",
+    "type": "input",
+    "templateOptions": {
+      "type": "text",
+      "required": true,
+      "label": "Depositor Name",
+      "placeholder": "Depositor Name",
+      "pattern": "/^[a-zA-Z]{1,30}[\\s][a-zA-Z]{1,30}[ a-zA-Z]{0,30}$/"
+    },
+    "validation": {
+      "messages": {
+        "pattern": "Invalid Depositor Name"
+      }
+    }
+  },
+  {
+    "key": "depositor_name_relation",
+    "type": "input",
+    "templateOptions": {
+      "type": "text",
+      "required": true,
+      "label": "Depositor Relation",
+      "placeholder": "Depositor Relation",
+      "pattern": "/^[a-zA-Z]{1,30}[\\s][a-zA-Z]{1,30}[ a-zA-Z]{0,30}$/"
+    },
+    "validation": {
+      "messages": {
+        "pattern": "Invalid Depositor Relation"
+      }
+    }
+  },
+  {
+    "key": "remarks",
+    "type": "input",
+    "templateOptions": {
+      "type": "text",
+      "required": true,
+      "label": "Remarks",
+      "placeholder": "Remarks"
+    }
+  }
+]

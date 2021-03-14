@@ -1,0 +1,27 @@
+[
+    {
+        "id": 12,
+        "label": "Bill Sharing",
+        "value": "Bill Sharing"
+    },
+    {
+        "id": 16,
+        "label": "Dashain Dakshina",
+        "value": "Dashain Dakshina"
+    },
+    {
+        "id": 14,
+        "label": "family expenses",
+        "value": "family expenses"
+    },
+    {
+        "id": 10,
+        "label": "Loan Payment",
+        "value": "Loan Payment"
+    },
+    {
+        "id": 13,
+        "label": "personal use",
+        "value": "personal use"
+    }
+]

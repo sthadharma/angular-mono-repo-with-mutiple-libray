@@ -1,0 +1,338 @@
+[
+    {
+        "bank_display_name": "bank display name",
+        "swift_code": "swtift code",
+        "min_amount": 1.0,
+        "max_amount": 10000.0,
+        "regex": "account regex"
+    },
+    {
+        "bank_display_name": "BANK OF KATHMANDU LTD.",
+        "swift_code": "BOKLNPKA",
+        "min_amount": 1.0,
+        "max_amount": 50000.0,
+        "regex": "^[0-9|a-zA-Z]+$"
+    },
+    {
+        "bank_display_name": "bank test name",
+        "swift_code": "eserehhgh",
+        "min_amount": 100.0,
+        "max_amount": 20000.0,
+        "regex": "esere5544"
+    },
+    {
+        "bank_display_name": "Century Bank Ltd.",
+        "swift_code": "CCBNNPKA",
+        "min_amount": 1.0,
+        "max_amount": 100000.0,
+        "regex": "^[0-9|a-zA-Z]+$"
+    },
+    {
+        "bank_display_name": "CITIZENS BANK INTL.",
+        "swift_code": "CTZNNPKA",
+        "min_amount": 100.0,
+        "max_amount": 50000.0,
+        "regex": "^[0-9|a-zA-Z]+$"
+    },
+    {
+        "bank_display_name": "CIVIL BANK LTD.",
+        "swift_code": "CIVLNPKA",
+        "min_amount": 100.0,
+        "max_amount": 50000.0,
+        "regex": "^[0-9|a-zA-Z]+$"
+    },
+    {
+        "bank_display_name": "EVEREST BANK",
+        "swift_code": "EVBLNPKA",
+        "min_amount": 100.0,
+        "max_amount": 50000.0,
+        "regex": "^[0-9|a-zA-Z]+$"
+    },
+    {
+        "bank_display_name": "EXCEL DEVELOPMENT BANK",
+        "swift_code": "AXDLNPKA",
+        "min_amount": 100.0,
+        "max_amount": 50000.0,
+        "regex": "^[0-9|a-zA-Z]+$"
+    },
+    {
+        "bank_display_name": "GANDAKI BIKAS BANK LTD",
+        "swift_code": "GDBNPKA",
+        "min_amount": 100.0,
+        "max_amount": 50000.0,
+        "regex": "^[0-9|a-zA-Z]+$"
+    },
+    {
+        "bank_display_name": "GARIMA DEVELOPMENT BANK",
+        "swift_code": "GRDBLNPKA",
+        "min_amount": 100.0,
+        "max_amount": 50000.0,
+        "regex": "^[0-9|a-zA-Z]+$"
+    },
+    {
+        "bank_display_name": "GLOBAL IME BANK",
+        "swift_code": "GLBBNPKA",
+        "min_amount": 100.0,
+        "max_amount": 50000.0,
+        "regex": "^[0-9|a-zA-Z]+$"
+    },
+    {
+        "bank_display_name": "GURKHAS FINANCE",
+        "swift_code": "KMFNPKA",
+        "min_amount": 100.0,
+        "max_amount": 50000.0,
+        "regex": "^[0-9|a-zA-Z]+$"
+    },
+    {
+        "bank_display_name": "JANATA BANK NEPAL",
+        "swift_code": "JBNLNPKA",
+        "min_amount": 100.0,
+        "max_amount": 50000.0,
+        "regex": "[0-9]{15}"
+    },
+    {
+        "bank_display_name": "JYOTI BIKASH BANK",
+        "swift_code": "JBBLNPKA",
+        "min_amount": 100.0,
+        "max_amount": 50000.0,
+        "regex": "^[0-9|a-zA-Z]+$"
+    },
+    {
+        "bank_display_name": "KAMANA SEWA BIKAS BANK LTD.",
+        "swift_code": "KSKFNPKA",
+        "min_amount": 100.0,
+        "max_amount": 50000.0,
+        "regex": "^[0-9|a-zA-Z]+$"
+    },
+    {
+        "bank_display_name": "KANCHAN DEVELOPMENT BANK LTD.",
+        "swift_code": "KNBLNPKA",
+        "min_amount": 100.0,
+        "max_amount": 50000.0,
+        "regex": "^[0-9|a-zA-Z]+$"
+    },
+    {
+        "bank_display_name": "KARNALI DEVELOPMENT BANK",
+        "swift_code": "KRDBLNPKA",
+        "min_amount": 100.0,
+        "max_amount": 50000.0,
+        "regex": "^[0-9|a-zA-Z]+$"
+    },
+    {
+        "bank_display_name": "KUMARI BANK",
+        "swift_code": "KMBLNPKA",
+        "min_amount": 100.0,
+        "max_amount": 50000.0,
+        "regex": "[0-9]{16}"
+    },
+    {
+        "bank_display_name": "LAXMI BANK LTD.",
+        "swift_code": "LXBLNPKA",
+        "min_amount": 100.0,
+        "max_amount": 50000.0,
+        "regex": "^[0-9|a-zA-Z]+$"
+    },
+    {
+        "bank_display_name": "MACHHAPUCHCHHRE BANK LTD.",
+        "swift_code": "MBLNNPKA",
+        "min_amount": 100.0,
+        "max_amount": 50000.0,
+        "regex": "^[0-9|a-zA-Z]+$"
+    },
+    {
+        "bank_display_name": "MAHALAXMI BIKAS BANK LTD.",
+        "swift_code": "MBBLNPKA",
+        "min_amount": 100.0,
+        "max_amount": 50000.0,
+        "regex": "^[0-9|a-zA-Z]+$"
+    },
+    {
+        "bank_display_name": "MEGA BANK",
+        "swift_code": "MBNLNPKA",
+        "min_amount": 100.0,
+        "max_amount": 50000.0,
+        "regex": "^[0-9|a-zA-Z]+$"
+    },
+    {
+        "bank_display_name": "MISSION DEVELOPMENT BANK",
+        "swift_code": "MDBLNPKA",
+        "min_amount": 100.0,
+        "max_amount": 50000.0,
+        "regex": "^[0-9|a-zA-Z]+$"
+    },
+    {
+        "bank_display_name": "MUKTINATH BIKAS BANK LTD.",
+        "swift_code": "MNBBLNPKA",
+        "min_amount": 100.0,
+        "max_amount": 50000.0,
+        "regex": "^[0-9|a-zA-Z]+$"
+    },
+    {
+        "bank_display_name": "NABIL BANK",
+        "swift_code": "NARBNPKA",
+        "min_amount": 100.0,
+        "max_amount": 150000.0,
+        "regex": "^[0-9|a-zA-Z]+$"
+    },
+    {
+        "bank_display_name": "NCC BANK LTD.",
+        "swift_code": "NBOCNPKA",
+        "min_amount": 100.0,
+        "max_amount": 50000.0,
+        "regex": "[0-9]{11}[A-Z0-9]{2}"
+    },
+    {
+        "bank_display_name": "NEPAL BANGLADESH BANK",
+        "swift_code": "NPBBNPKA",
+        "min_amount": 100.0,
+        "max_amount": 50000.0,
+        "regex": "^[0-9|A-Z]+$"
+    },
+    {
+        "bank_display_name": "NEPAL INVESTMENT BANK LTD.",
+        "swift_code": "NIBLNPKA",
+        "min_amount": 100.0,
+        "max_amount": 50000.0,
+        "regex": "^[0-9|a-zA-Z]+$"
+    },
+    {
+        "bank_display_name": "NIC ASIA BANK",
+        "swift_code": "BOALNPKA",
+        "min_amount": 100.0,
+        "max_amount": 50000.0,
+        "regex": "^[0-9|a-zA-Z]+$"
+    },
+    {
+        "bank_display_name": "NMB BANK",
+        "swift_code": "NMBBNPKA",
+        "min_amount": 100.0,
+        "max_amount": 50000.0,
+        "regex": "^[0-9|a-zA-Z]+$"
+    },
+    {
+        "bank_display_name": "OM DEVELOPMENT BANK",
+        "swift_code": "CTDBNPKA",
+        "min_amount": 100.0,
+        "max_amount": 50000.0,
+        "regex": "^[0-9|a-zA-Z]+$"
+    },
+    {
+        "bank_display_name": "Pokhara Finance",
+        "swift_code": "PKKR",
+        "min_amount": 1.0,
+        "max_amount": 100000.0,
+        "regex": "^[0-9|a-zA-Z]+$"
+    },
+    {
+        "bank_display_name": "PRIME COMMERCIAL BANK LTD.",
+        "swift_code": "PCBLNPKA",
+        "min_amount": 100.0,
+        "max_amount": 50000.0,
+        "regex": "^[0-9|a-zA-Z]+$"
+    },
+    {
+        "bank_display_name": "PURNIMA BIKASH BANK",
+        "swift_code": "pbblnpka",
+        "min_amount": 100.0,
+        "max_amount": 50000.0,
+        "regex": "^[0-9|a-zA-Z]+$"
+    },
+    {
+        "bank_display_name": "RASTRIYA BANIJYA BANK",
+        "swift_code": "RBBANPKA",
+        "min_amount": 100.0,
+        "max_amount": 50000.0,
+        "regex": "^[0-9|a-zA-Z]+$"
+    },
+    {
+        "bank_display_name": "SANIMA BANK LTD.",
+        "swift_code": "SNMANPKA",
+        "min_amount": 100.0,
+        "max_amount": 50000.0,
+        "regex": "^[0-9|a-zA-Z]+$"
+    },
+    {
+        "bank_display_name": "sdfdsf",
+        "swift_code": "dfdsfs",
+        "min_amount": 1.0,
+        "max_amount": 10000.0,
+        "regex": "sdfdsf"
+    },
+    {
+        "bank_display_name": "SHANGRILA BIKAS BANK LTD.",
+        "swift_code": "SGBBNPKA",
+        "min_amount": 100.0,
+        "max_amount": 50000.0,
+        "regex": "^[0-9|a-zA-Z]+$"
+    },
+    {
+        "bank_display_name": "SHINE RESUNGA DEVELOPMENT BANK",
+        "swift_code": "SRDBNPKA",
+        "min_amount": 100.0,
+        "max_amount": 50000.0,
+        "regex": "^[0-9|a-zA-Z]+$"
+    },
+    {
+        "bank_display_name": "SIDDHARTHA BANK",
+        "swift_code": "SIDDNPKA",
+        "min_amount": 100.0,
+        "max_amount": 50000.0,
+        "regex": "^[0-9|a-zA-Z]+$"
+    },
+    {
+        "bank_display_name": "Standard Chartered Bank",
+        "swift_code": "SCBLNPKA",
+        "min_amount": 100.0,
+        "max_amount": 50000.0,
+        "regex": "^((0)[a-zA-Z0-9]{13})$"
+    },
+    {
+        "bank_display_name": "SUNRISE BANK",
+        "swift_code": "SRBLNPKA",
+        "min_amount": 100.0,
+        "max_amount": 50000.0,
+        "regex": "^[0-9|a-zA-Z]+$"
+    },
+    {
+        "bank_display_name": "Test Bank",
+        "swift_code": "TBPLNPLA",
+        "min_amount": 1.0,
+        "max_amount": 500000.0,
+        "regex": "^[0-9|a-zA-Z]+$"
+    },
+    {
+        "bank_display_name": "TEST BANK",
+        "swift_code": "suds888",
+        "min_amount": 100.0,
+        "max_amount": 1000000.0,
+        "regex": "esere"
+    },
+    {
+        "bank_display_name": "Test Bikash Bank",
+        "swift_code": "TTBBNPKA",
+        "min_amount": 1.0,
+        "max_amount": 100000.0,
+        "regex": "^[0-9|a-zA-Z]+$"
+    },
+    {
+        "bank_display_name": "TINAU BIKAS BANK",
+        "swift_code": "TBBNPKA",
+        "min_amount": 100.0,
+        "max_amount": 50000.0,
+        "regex": "^[0-9|a-zA-Z]+$"
+    },
+    {
+        "bank_display_name": "TOURISM DEV BANK",
+        "swift_code": "TDBLNPKA",
+        "min_amount": 100.0,
+        "max_amount": 50000.0,
+        "regex": "^[0-9|a-zA-Z]+$"
+    },
+    {
+        "bank_display_name": "UNITED FINANCE LTD.",
+        "swift_code": "UFLNPKA",
+        "min_amount": 100.0,
+        "max_amount": 50000.0,
+        "regex": "^[0-9|a-zA-Z]+$"
+    }
+]

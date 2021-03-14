@@ -1,0 +1,46 @@
+{
+    "api": [
+        {
+            "apiUrl": "/data/neaCounters.json",
+            "fieldKey": "code",
+            "type": "ng-select"
+
+        }
+    ],
+    "fields": [
+        {
+            "key": 25
+        },
+        {
+            "key": "code",
+            "type": "ng-select",
+            "templateOptions": {
+                "required": true,
+                "label": "Select Counter",
+                "placeholder": "Counter",
+                "labelProp": "name",
+                "valueProp": "code"
+            }
+        },
+        {
+            "key": "scno",
+            "type": "input",
+            "templateOptions": {
+                "label": "Sc No",
+                "placeholder": "Sc No",
+                "description": "Sc No",
+                "required": true
+            }
+        },
+        {
+            "key": "customer_id",
+            "type": "input",
+            "templateOptions": {
+                "label": "Customer Id",
+                "placeholder": "Customer Id",
+                "description": "Customer Id",
+                "required": true
+            }
+        }
+    ]
+}

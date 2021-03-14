@@ -1,0 +1,107 @@
+[
+  {
+    "key": "bank",
+    "type": "autocomplete",
+    "templateOptions": {
+      "required": true,
+      "label": "Select Bank",
+      "placeholder": "Select Bank"
+    }
+  },
+  {
+    "key": "is_mobile_number",
+    "type": "radio",
+    "templateOptions": {
+      "label": "From below option you can proceed for the bank transfer",
+      "placeholder": "From below option you can proceed for the bank transfer",
+      "description": "Description",
+      "required": true,
+      "options": [
+        { "value": true, "label": "Mobile Number" },
+        { "value": false, "label": "Account Number" }
+
+      ]
+    }
+  },
+  {
+    "key": "mobileNo",
+    "type": "input",
+    "templateOptions": {
+      "type": "text",
+      "required": true,
+      "label": "Mobile Number",
+      "placeholder": "98******",
+      "pattern": "^98[5][0-9]{7}$"
+    },
+    "validation": {
+      "messages": {
+        "pattern": "Invalid mobile number"
+      }
+    },
+    "hideExpression": "model.is_mobile_number"
+  },
+  {
+    "key": "account_number",
+    "type": "input",
+    "templateOptions": {
+      "type": "text",
+      "required": true,
+      "label": "Account Number",
+      "placeholder": "Account Number",
+      "pattern": "^98[5][0-9]{7}$"
+    },
+    "validation": {
+      "messages": {
+        "pattern": "Invalid Account number"
+      }
+    },
+    "hideExpression": "!model.is_mobile_number"
+  },
+  {
+    "key": "account_holder_name",
+    "type": "input",
+    "templateOptions": {
+      "type": "text",
+      "required": true,
+      "label": "Account Holder's Name",
+      "placeholder": "Account Holder's Name",
+      "pattern": "^98[5][0-9]{7}$"
+    },
+    "validation": {
+      "messages": {
+        "pattern": "Invalid Account Holder's Name"
+      }
+    }
+  },
+  {
+    "key": "Amount",
+    "type": "input",
+    "templateOptions": {
+      "type": "number",
+      "required": true,
+      "label": "Amount",
+      "placeholder": "Amount",
+      "min": 0,
+      "max": 10
+    }
+  },
+  {
+    "key": "purpose",
+    "type": "autocomplete",
+    "templateOptions": {
+      "required": true,
+      "label": "Select Purpose",
+      "placeholder": "Select Purpose"
+    }
+  },
+  {
+    "key": "Remarks",
+    "type": "textarea",
+    "templateOptions": {
+      "type": "text",
+      "required": true,
+      "label": "Remarks",
+      "placeholder": "Remarks"
+    }
+  }
+]

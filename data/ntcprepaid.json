@@ -1,0 +1,30 @@
+[
+  {
+    "key": "mobileNo",
+    "type": "input",
+    "templateOptions": {
+      "type": "text",
+      "required": true,
+      "label": "Mobile Number",
+      "placeholder": "98******",
+      "pattern": "^98[5][0-9]{7}$"
+    },
+    "validation": {
+      "messages": {
+        "pattern": "Invalid mobile number"
+      }
+    }
+  },
+  {
+    "key": "Amount",
+    "type": "input",
+    "templateOptions": {
+      "type": "number",
+      "required": true,
+      "label": "Amount",
+      "placeholder": "Amount",
+      "min": 0,
+      "max": 10
+    }
+  }
+]

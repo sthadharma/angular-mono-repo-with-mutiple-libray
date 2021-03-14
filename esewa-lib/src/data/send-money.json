@@ -1,0 +1,67 @@
+{
+    "api": [
+        {
+            "apiUrl": "/data/purpose.json",
+            "fieldKey": "purpose",
+            "type": "select"
+        }
+    ],
+    "fields": [
+        {
+            "key": "receiverName",
+            "type": "input",
+            "templateOptions": {
+                "required": true,
+                "label": "eSewa Id",
+                "type": "text",
+                "placeholder": "Mobile Number or email Id",
+                "pattern": "/^[a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+.[a-zA-Z0-9-.]||[9][0-9]{9}$/"
+            },
+            "validation": {
+                "messages": {
+                    "pattern": "Not a valid eSewa Id"
+                }
+            }
+        },
+        {
+            "key": "amount",
+            "type": "input",
+            "templateOptions": {
+                "required": true,
+                "label": "Amount",
+                "min": 0,
+                "type": "number",
+                "placeholder": "Enter Amount"
+            },
+            "expressionProperties": {
+                "templateOptions.disabled": "!model.receiverName"
+            },
+            "validation": {
+                "messages": {
+                    "pattern": "Invalid Amount"
+                }
+            }
+        },
+        {
+            "key": "purpose",
+            "type": "select",
+            "templateOptions": {
+                "required": true,
+                "label": "Select Purpose",
+                "options": []
+            }
+        },
+        {
+            "key": "remarks",
+            "type": "input",
+            "templateOptions": {
+                "required": true,
+                "type": "text",
+                "minLength": 5,
+                "maxLength": 60,
+                "label": "Remarks"
+            }
+        }
+
+    ]
+}
